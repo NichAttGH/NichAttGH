@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a Robotics Engineer with the interest on Defense and Artificial Intelligence sectors.<br>My ambition is to be able to work in one of the 2 fields with the opportunity to continually increase my skills and aiming for a better and better role.<br>I have a fair amount of passion for video games, love nature and sports, enjoy reading and staying up to date with the world of technology.
+👉 I am a Robotics Engineer with a growing passion for Artificial Intelligence and Defense. My professional goal is to grow in the field of AI Engineering, contributing to the development of advanced technologies in areas such as Defense, Automation, and Artificial Intelligence.
+
+📚 I have experience in developing algorithms and systems for robotics and am expanding my expertise towards Machine Learning, Deep Learning and optimization of autonomous systems.
+
+💡 I am always motivated to learn and stay up-to-date on the latest technological innovations, with the ambition to work in dynamic teams where I can continuously improve and achieve new goals.
+
+🌱 Outside of work, I love to immerse myself in nature, play sports, and read to further both my technical knowledge and personal passions, such as the world of video games and new frontiers of technology.
 
 
 ## 🌐 Socials:
