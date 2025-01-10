@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_oh_nick)
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white) ![Matlab](https://img.shields.io/badge/MATLAB®-%23757973.svg?style=flat&logo=MATLAB&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NichAttGH&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NichAttGH&theme=default&hide_border=true)<br/>
